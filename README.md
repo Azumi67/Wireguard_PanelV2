@@ -1,5 +1,23 @@
 # Wireguard_PanelV2
+------------
 
+<p align="right">
+  <img src="https://github.com/user-attachments/assets/30f029a5-bd20-440e-8313-177e24d6e762" alt="Image" />
+</p>
+<p align="right">
+  <img src="https://github.com/user-attachments/assets/fbd7b54d-3c1b-4206-b43a-2cfc0ee7b242" alt="Image" />
+</p>
+<p align="right">
+  <img src="https://github.com/user-attachments/assets/0f6965aa-25d3-4dc1-ae5a-82bc5390c1ab" alt="Image" />
+</p>
+<p align="right">
+  <img src="https://github.com/user-attachments/assets/f78e990f-8038-47d6-b1c0-7a5ec2564d8d" alt="Image" />
+</p>
+<p align="right">
+  <img src="https://github.com/user-attachments/assets/602071ef-7efb-4f11-8a3e-0efe0329d0c6" alt="Image" />
+</p>
+
+- چند اسکرین شات از پنل که نمایش node و peers و باقی قسمت ها را نشان میدهد. ادامه کار به ارامی انجام خواهد شد
 - این یک draft برای پروژه بعدی میباشد که امکاناتی که باید اضافه کنم در اینجا یادداشت میکنم که فراموش نکنم ( در وقت ازاد انجام خواهم داد و به یادداشت ها امکانات اضافه خواهد شد)
 - استفاده از پنل سبک و نقره ای
 - استفاده از دیتابیس به جای جیسون
